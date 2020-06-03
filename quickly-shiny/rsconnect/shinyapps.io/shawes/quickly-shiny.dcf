@@ -1,0 +1,10 @@
+name: quickly-shiny
+title:
+username:
+account: shawes
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2389661
+bundleId: 3214607
+url: https://shawes.shinyapps.io/quickly-shiny/
+when: 1591026804.13296
