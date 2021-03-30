@@ -21,9 +21,7 @@ quickly_data$Pooped <- as.factor(quickly_data$Pooped)
 # Define UI for app that draws a histogram ----
 ui <- fluidPage(
     titlePanel("Quickly's Food Diary"),
-    div(img(src = "quickly.png"),
-        style = "text-align: center;"
-    ),
+    div(img(src = "quickly.png"), style = "text-align: center;"),
     # App title ----
     br(),
     p(),
